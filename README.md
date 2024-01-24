@@ -1,4 +1,4 @@
-# User Authentication and Profile Management--Dezvery
+# User Authentication and Profile Management--Devzery
 
 This project implements user registration, authentication, and profile management using Python (Django) for the backend, a SQLite database for data storage, and React.js for the frontend.
 ## Introduction
