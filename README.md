@@ -9,8 +9,8 @@ This project focuses on creating a secure and user-friendly system for user regi
 
 - **Backend:**
   - Python
-  - Flask (or any other backend framework of your choice)
-  - SQL Database (e.g., MySQL, PostgreSQL)
+  - Django
+  - SQLite
 
 - **Frontend:**
   - React.js
